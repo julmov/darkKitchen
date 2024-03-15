@@ -12,7 +12,7 @@ const dishesCollection = [
       "shrimp in tempura",
       "cream cheese",
     ],
-    picture: "/5_Dark-kitchen-project/images/YGgDBxI-dwDJyCH-JrCGhZP.jpeg",
+    picture: "images/YGgDBxI-dwDJyCH-JrCGhZP.jpeg",
   },
   {
     name: "Barbie roll",
@@ -25,7 +25,7 @@ const dishesCollection = [
       "Japanese mayonnaise",
       "food coloring",
     ],
-    picture: "/5_Dark-kitchen-project/images/kyhPlrf-zsAcpee-WdRhrMA.jpeg",
+    picture: "images/kyhPlrf-zsAcpee-WdRhrMA.jpeg",
   },
   {
     name: "Green Dragon",
@@ -39,7 +39,7 @@ const dishesCollection = [
       "nori",
       "sesame",
     ],
-    picture: "/5_Dark-kitchen-project/images/qyrcZGG-NvKdEiC-IlHbvrV.jpeg",
+    picture: "images/qyrcZGG-NvKdEiC-IlHbvrV.jpeg",
   },
   {
     name: "Gold Dragon",
@@ -56,7 +56,7 @@ const dishesCollection = [
       "nori",
       "sesame",
     ],
-    picture: "/5_Dark-kitchen-project/images/gold.jpeg",
+    picture: "images/gold.jpeg",
   },
   {
     name: "Roll Paradise",
@@ -71,7 +71,7 @@ const dishesCollection = [
       "radish",
       "nori",
     ],
-    picture: "/5_Dark-kitchen-project/images/paradise.jpeg",
+    picture: "images/paradise.jpeg",
     link: "https://www.youtube.com/watch?v=t-775JyzDTk",
   },
   {
@@ -88,7 +88,7 @@ const dishesCollection = [
       "daikon",
       "nori",
     ],
-    picture: "/5_Dark-kitchen-project/images/havana.jpeg",
+    picture: "images/havana.jpeg",
     link: "https://www.youtube.com/watch?v=1sMrtt7sAR8",
   },
   {
@@ -102,7 +102,7 @@ const dishesCollection = [
       "sesame",
       "arugula",
     ],
-    picture: "/5_Dark-kitchen-project/images/cheese.jpeg",
+    picture: "images/cheese.jpeg",
     link: "https://www.youtube.com/watch?v=4w1xZA7pX2c",
   },
   {
@@ -118,7 +118,7 @@ const dishesCollection = [
       "nori",
       "ginger",
     ],
-    picture: "/5_Dark-kitchen-project/images/ocean.jpeg",
+    picture: "images/ocean.jpeg",
     link: "https://www.youtube.com/watch?v=89UV8vmWXlY",
   },
   {
@@ -136,7 +136,7 @@ const dishesCollection = [
       "mame-nori",
       "sesame",
     ],
-    picture: "/5_Dark-kitchen-project/images/red dr.jpeg",
+    picture: "images/red dr.jpeg",
     link: "https://www.youtube.com/watch?v=reP8VFF3KHU&t=3s",
   },
 ];
